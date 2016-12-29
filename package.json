@@ -1,0 +1,12 @@
+{
+  "name": "elvui-updater",
+  "version": "1.0.0",
+  "description": "Updates elvui addon in your wow installation",
+  "main": "main.js",
+  "repository": "git@github.com:dizney/elvui-updater.git",
+  "author": "Sidney Beekhoven",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "electron": "^1.4.13"
+  }
+}
